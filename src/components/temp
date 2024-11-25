@@ -1,0 +1,61 @@
+const a=[{
+        createdBy:"Hemanth",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    },{
+        createdBy:"luffy",
+        content:{text:"this is a demo one where i just write rubbish to see if the lies are going to the next line or not and to check the flow.",photos:""}
+    }]
